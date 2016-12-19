@@ -7,4 +7,5 @@ quit()
 
 mv
 rm
-man
+man command-name
+man -k
