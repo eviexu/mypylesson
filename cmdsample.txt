@@ -1,0 +1,10 @@
+cat >cmdsample.txt
+q
+quit
+exit
+quit()
+
+
+mv
+rm
+man
