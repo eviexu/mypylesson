@@ -9,3 +9,13 @@ mv
 rm
 man command-name
 man -k
+cd /Users/eviexu/documents/mypylesson
+git status
+git add .
+git reset HEAD filename
+git commit -m “message”
+git push origin master
+$ ls -lah fw8ben.pdf | awk '{ print $5}'  ## to get file size
+$ ls -lah .git | awk '{ print $5}' 
+stat -s filename   ##it would print file or folder information
+
